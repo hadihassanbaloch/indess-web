@@ -8,7 +8,7 @@ import imgProject12 from "@/assets/projects/project 12.webp";
 import imgProject13 from "@/assets/projects/project 13.webp";
 import imgProject16 from "@/assets/projects/project 16.webp";
 import pipe from "@/assets/projects/pipe-fittings.png";
-import diaphragm from "@/assets/projects/diaphragm.webp";
+import diaphragm from "@/assets/projects/diaphragm.jpg";
 import atlas from "@/assets/projects/Atlas-img.jpg"
 
 

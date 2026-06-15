@@ -9,6 +9,7 @@ import kizadLogo from "@/assets/clients/kizad.png";
 import orientLogo from "@/assets/clients/orient.jfif";
 import parcoLogo from "@/assets/clients/PARCO.png";
 import taqaLogo from "@/assets/clients/taqa.png";
+import socar from "@/assets/clients/SOCAR.avif"
 
 const allClientLogoModules = import.meta.glob("../../assets/clients/logo_*.png", {
   eager: true,
@@ -107,6 +108,12 @@ export const clientPageData: ClientPageItem[] = [
   {
     name: "Orient Petroleum Limited - Pakistan",
     logo: orientLogo,
+    sector: "Oil & Gas",
+    project: "Industrial equipment and project supply support for upstream and downstream operations.",
+  },
+  {
+    name: "State Oil Company of the Azerbaijan Republic",
+    logo: socar,
     sector: "Oil & Gas",
     project: "Industrial equipment and project supply support for upstream and downstream operations.",
   },
