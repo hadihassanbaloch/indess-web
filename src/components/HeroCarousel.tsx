@@ -196,7 +196,7 @@ export default function HeroCarousel() {
                   {slide.copy}
                 </p>
                 <a
-                  href="https://drive.google.com/file/d/1VvUMc482gY1bt_qKFO1mFsbfeOJkqPF6/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1XTn5PpSOX1ZyHlzUAM1cCR3fxh1V70hM/view"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="animate-fade-up inline-flex items-center gap-3 bg-secondary px-7 py-4 text-[11px] uppercase tracking-editorial text-foreground transition-colors hover:bg-white"
